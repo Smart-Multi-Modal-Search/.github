@@ -5,9 +5,12 @@ Product information and related media (images, video, etc) are converted to vect
 [Weaviate](https://weaviate.io/)
 open source vector database.
 
-Smart Search :http://35.224.107.49:8000/
+Prototype Demo of Smart Search at :http://35.224.107.49:8000/
 
 A novel experiment is the use of CLIP (
 [Constrastive Language Image Pretraining](https://github.com/openai/CLIP)
 ) model to enable an user to describe products in their own (natural language) and vectorize such
 descriptions using CLIP embeddings and search across the web for products meeting the needs.
+
+Future plans include the ability to utilize an app that can take pictures and capture additional
+product features from spoken words and utilize both to seach for the relevant products.
