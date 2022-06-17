@@ -14,3 +14,6 @@ descriptions using CLIP embeddings and search across the web for products meetin
 
 Future plans include the ability to utilize an app that can take pictures and capture additional
 product features from spoken words and utilize both to seach for the relevant products.
+
+MLOPS DECK 
+![Screen Shot 2022-06-09 at 6.27.13 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd7642fa-6abc-42ea-b7cd-de469a2512a1/Screen_Shot_2022-06-09_at_6.27.13_PM.png)
